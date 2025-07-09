@@ -16,7 +16,7 @@ I'm currently focusing on the **frontend** side, starting with HTML.
 
 | Module        | Status     | Notes                     |
 |---------------|------------|---------------------------|
-| HTML          | ✅ Complete/In Progress | Basic structure, tags, forms |
+| HTML          | ✅ Complete | Basic structure, tags, forms |
 | CSS           | ⬜ Upcoming | Styling and layout        |
 | JavaScript    | ⬜ Upcoming | DOM, ES6, Functions       |
 | Node.js       | ⬜ Upcoming | Backend basics            |
